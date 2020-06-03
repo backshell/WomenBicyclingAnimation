@@ -1,9 +1,9 @@
 # WomenBicyclingAnimation
 
-This is a HTML5 and CSS3 based animation. Just a imaginative thought, about when 
-womeh bicycle on the terrains of moon soon in future!
+This is a HTML5 and CSS3 based animation. Just a imaginative thought, 
+about when women bicycle on the terrains of moon soon in future!
 
-I post this animation tutorial on WorldBicycleDay 2020!
+I post this animation tutorial, on WorldBicycleDay 2020!
 
 Features:
 ---------
@@ -11,6 +11,6 @@ Features:
 2. Surface of moon, moving against the cycling path
 3. Earth revolving behind the scene
 4. Glowing text at the top
-5. Audio file plays a song/mp3 song related to the video
+5. Audio file plays a song/mp3 audio clip related to the video
 
 ![](womenbicycling.png)
