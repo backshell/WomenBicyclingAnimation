@@ -9,11 +9,8 @@
   overflow: hidden;
   background-image: url('moonterrain.jpg');
   background-repeat: repeat;
-  background-attachment: fixed;
   -webkit-animation: backgroundScroll 5s linear infinite;
   -webkit-animation-fill-mode: forwards;
-  animation: backgroundScroll 15s linear infinite;
-  animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes backgroundScroll {
@@ -26,8 +23,6 @@
   color: #fff;
   text-align: center;
   -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
@@ -45,11 +40,6 @@
   top: 150px;
   left: 600px;
   position: absolute;
-}
-
-.base, .bicycling
-{
-  background-blend-mode: overlay;
 }
 
 .bicycling
